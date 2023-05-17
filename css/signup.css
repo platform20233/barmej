@@ -1,0 +1,137 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: url(../image/signin/bg-01.jpg) no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@font-face {
+  font-family: ExpoArabic;
+  src: url(../fonts/ExpoArabic-Book.ttf);
+}
+
+div {
+  font-family: ExpoArabic;
+}
+
+.container {
+  width: 500px;
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 50px 25px;
+  /* margin: 15px auto; */
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content .logo {
+  width: 300px;
+}
+
+.content .logo img {
+  width: 100%;
+  max-width: 100%;
+}
+
+.content .status {
+  display: flex;
+  justify-content: flex-end;
+  margin: 35px 0;
+}
+
+.content .status h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #122b46;
+}
+
+.content .status a {
+  font-size: 14px;
+  color: #5a5a5a;
+  text-decoration: none;
+}
+
+.container form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #eee;
+  padding: 25px;
+  background-color: #fff;
+  border-radius: 15px;
+  position: relative;
+}
+
+.container form img {
+  /* position: absolute;
+  right: 35px;
+  top: 35px; */
+  position: relative;
+  top: 28px;
+  left: 93%;
+}
+
+.container form input[type="text"],
+.container form input[type="email"],
+.container form input[type="password"] {
+  padding: 10px 40px 10px 10px;
+  text-align: right;
+  outline: none;
+  border-radius: 5px;
+  color: #7f7f7f;
+  border: 1px solid #bdbdbd;
+  font-weight: normal;
+}
+
+.container form .forget {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+}
+
+.container form .forget p {
+  font-size: 14px;
+  margin: 10px;
+  color: #122b46;
+}
+
+.container form .login {
+  text-decoration: none;
+  text-align: center;
+  background-color: #588fe9;
+  color: #fff;
+  padding: 10px 0;
+  border-radius: 5px;
+  margin-bottom: 65px;
+}
+
+.container form .signup {
+  text-decoration: none;
+  text-align: right;
+  font-size: 14px;
+  font-weight: 500;
+  color: #122b46;
+  margin: 30px 0 10px;
+}
+
+@media (max-width: 767px) {
+  .container {
+    width: 350px;
+  }
+  .container form img {
+    left: 89%;
+  }
+}

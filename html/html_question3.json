@@ -1,0 +1,82 @@
+[
+  {
+    "title": "ما هي قاعدة تسمية المتغيرات في البرمجة؟",
+    "answer_1": "Camel Case",
+    "answer_2": "Pascal Case",
+    "answer_3": "Snake Case",
+    "answer_4": "Kebab Case",
+    "right_answer": "Camel Case"
+  },
+  {
+    "title": "ما هي قاعدة تسمية المتغيرات التي تبدأ بحرف كبير؟",
+    "answer_1": "Camel Case",
+    "answer_2": "Pascal Case",
+    "answer_3": "Snake Case",
+    "answer_4": "Kebab Case",
+    "right_answer": "Pascal Case"
+  },
+  {
+    "title": "ما هي قاعدة تسمية المتغيرات التي تستخدم الشرطة المنخفضة لفصل الكلمات؟",
+    "answer_1": "Camel Case",
+    "answer_2": "Pascal Case",
+    "answer_3": "Snake Case",
+    "answer_4": "Kebab Case",
+    "right_answer": "Snake Case"
+  },
+  {
+    "title": "ما هي قاعدة تسمية المتغيرات التي تستخدم الشرطة لفصل الكلمات؟",
+    "answer_1": "Camel Case",
+    "answer_2": "Pascal Case",
+    "answer_3": "Snake Case",
+    "answer_4": "Kebab Case",
+    "right_answer": "Kebab Case"
+  },
+  {
+    "title": "ما هي القاعدة الصحيحة لتسمية متغير يحتوي على اسم مركب؟",
+    "answer_1": "Upper Case",
+    "answer_2": "Mixed Case",
+    "answer_3": "Lower Case",
+    "answer_4": "Camel Case",
+    "right_answer": "Camel Case"
+  },
+  {
+    "title": "ما هي القاعدة الصحيحة لتسمية متغير يحتوي على ثابت (constant)؟",
+    "answer_1": "Upper Case",
+    "answer_2": "Mixed Case",
+    "answer_3": "Lower Case",
+    "answer_4": "Camel Case",
+    "right_answer": "Upper Case"
+  },
+  {
+    "title": "ما هي القاعدة الصحيحة لتسمية متغير يحتوي على قيم منفصلة؟",
+    "answer_1": "Upper Case",
+    "answer_2": "Mixed Case",
+    "answer_3": "Lower Case",
+    "answer_4": "Pascal Case",
+    "right_answer": "Upper Case"
+  },
+  {
+    "title": "ما هي القاعدة الصحيحة لتسمية متغير يحتوي على قيمة بينية؟",
+    "answer_1": "Upper Case",
+    "answer_2": "Mixed Case",
+    "answer_3": "Lower Case",
+    "answer_4": "Pascal Case",
+    "right_answer": "Mixed Case"
+  },
+  {
+    "title": "ما هي القاعدة الصحيحة لتسمية متغير يحتوي على قيم متراكبة؟",
+    "answer_1": "Upper Case",
+    "answer_2": "Mixed Case",
+    "answer_3": "Lower Case",
+    "answer_4": "Snake Case",
+    "right_answer": "Snake Case"
+  },
+  {
+    "title": "ما هي القاعدة الصحيحة لتسمية متغير يحتوي على قيم منفصلة بفواصل؟",
+    "answer_1": "Upper Case",
+    "answer_2": "Mixed Case",
+    "answer_3": "Lower Case",
+    "answer_4": "Kebab Case",
+    "right_answer": "Kebab Case"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "title": "ما هو الخطأ البرمجي الذي يحدث عند استخدام متغير غير معرف؟",
+    "answer_1": "Syntax Error",
+    "answer_2": "Runtime Error",
+    "answer_3": "Logic Error",
+    "answer_4": "Semantic Error",
+    "right_answer": "Runtime Error"
+  },
+  {
+    "title": "ما هو الخطأ البرمجي الذي يحدث عند تحديد قيمة متغير باسم آخر؟",
+    "answer_1": "Syntax Error",
+    "answer_2": "Runtime Error",
+    "answer_3": "Logic Error",
+    "answer_4": "Semantic Error",
+    "right_answer": "Semantic Error"
+  },
+  {
+    "title": "ما هو الخطأ البرمجي الذي يحدث عند تعيين قيمة متغير بنوع بيانات غير صحيح؟",
+    "answer_1": "Syntax Error",
+    "answer_2": "Runtime Error",
+    "answer_3": "Logic Error",
+    "answer_4": "Semantic Error",
+    "right_answer": "Semantic Error"
+  },
+  {
+    "title": "ما هو الخطأ البرمجي الذي يحدث عند محاولة استخدام دالة غير معرفة؟",
+    "answer_1": "Syntax Error",
+    "answer_2": "Runtime Error",
+    "answer_3": "Logic Error",
+    "answer_4": "Semantic Error",
+    "right_answer": "Runtime Error"
+  },
+  {
+    "title": "ما هو الخطأ البرمجي الذي يحدث عند استخدام علامة تنصيص غير مغلقة؟",
+    "answer_1": "Syntax Error",
+    "answer_2": "Runtime Error",
+    "answer_3": "Logic Error",
+    "answer_4": "Semantic Error",
+    "right_answer": "Syntax Error"
+  },
+  {
+    "title": "ما هو الخطأ البرمجي الذي يحدث عند تعيين قيمة غير موجودة في enum؟",
+    "answer_1": "Syntax Error",
+    "answer_2": "Runtime Error",
+    "answer_3": "Logic Error",
+    "answer_4": "Semantic Error",
+    "right_answer": "Semantic Error"
+  },
+  {
+    "title": "ما هو الخطأ البرمجي الذي يحدث عند استخدام علامة تنصيص داخل نص آخر يستخدم نفس العلامة؟",
+    "answer_1": "Syntax Error",
+    "answer_2": "Runtime Error",
+    "answer_3": "Logic Error",
+    "answer_4": "Semantic Error",
+    "right_answer": "Syntax Error"
+  }
+]

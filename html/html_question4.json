@@ -1,0 +1,82 @@
+[
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة للتحقق من تساوي قيمتين؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "if"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة للتحقق من عدم تساوي قيمتين؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "if"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة للتحقق من تحقق شرط واحد على الأقل؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "if"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة للتحقق من تحقق شرطين معاً؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "if"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة للتحقق من تحقق شرط وإلا فعل شيء آخر؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "else"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة لتحديد العديد من الاحتمالات المتعددة؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "switch"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة لتكرار جزء معين من الكود عدة مرات؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "for"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة لتحقق من عدة شروط في نفس الوقت؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "if"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة لتحقق من عدة شروط وتنفيذ كود مختلف لكل حالة؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "if"
+  },
+  {
+    "title": "ما هي الجملة الشرطية المستخدمة لتحقق من عدة شروط وتنفيذ كود مشترك لكل حالة؟",
+    "answer_1": "if",
+    "answer_2": "else",
+    "answer_3": "switch",
+    "answer_4": "for",
+    "right_answer": "if"
+  }
+]

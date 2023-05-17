@@ -1,0 +1,74 @@
+[
+  {
+    "title": "ما هو المتغير في البرمجة؟",
+    "answer_1": "قيمة ثابتة لا يمكن تغييرها",
+    "answer_2": "مؤشر لعنصر في الذاكرة",
+    "answer_3": "دالة تقوم بعمل معين",
+    "answer_4": "مكان لتخزين البيانات يمكن تغيير قيمته",
+    "right_answer": "مكان لتخزين البيانات يمكن تغيير قيمته"
+  },
+  {
+    "title": "ما هو نوع المتغير الذي يحمل قيم صحيحة أو خطأ فقط؟",
+    "answer_1": "int",
+    "answer_2": "boolean",
+    "answer_3": "string",
+    "answer_4": "double",
+    "right_answer": "boolean"
+  },
+  {
+    "title": "ما هو النوع المستخدم لتخزين الأعداد الصحيحة في البرمجة؟",
+    "answer_1": "int",
+    "answer_2": "boolean",
+    "answer_3": "string",
+    "answer_4": "double",
+    "right_answer": "int"
+  },
+  {
+    "title": "ما هو النوع المستخدم لتخزين الأعداد العشرية في البرمجة؟",
+    "answer_1": "int",
+    "answer_2": "boolean",
+    "answer_3": "string",
+    "answer_4": "double",
+    "right_answer": "double"
+  },
+  {
+    "title": "ما هو نوع المتغير الذي يحمل سلسلة من الحروف والأرقام؟",
+    "answer_1": "int",
+    "answer_2": "boolean",
+    "answer_3": "string",
+    "answer_4": "double",
+    "right_answer": "string"
+  },
+  {
+    "title": "ما هو النوع المستخدم لتخزين الحروف في البرمجة؟",
+    "answer_1": "int",
+    "answer_2": "boolean",
+    "answer_3": "string",
+    "answer_4": "double",
+    "right_answer": "char"
+  },
+  {
+    "title": "ما هو اسم العملية التي تقوم بتحويل قيمة من نوع بيانات لآخر؟",
+    "answer_1": "التحويل",
+    "answer_2": "التعيين",
+    "answer_3": "التحقق",
+    "answer_4": "التعزيز",
+    "right_answer": "التحويل"
+  },
+  {
+    "title": "ما هي القاعة (Scope) للمتغير في البرمجة؟",
+    "answer_1": "المكان الذي يتم فيه إنشاء المتغير",
+    "answer_2": "الحد الأقصى لقيمة المتغير",
+    "answer_3": "المدة الزمنية التي يبقى فيها المتغير في الذاكرة",
+    "answer_4": "المدى الذي يمكن الوصول إلى المتغير فيه",
+    "right_answer": "المدى الذي يمكن الوصول إلى المتغير فيه"
+  },
+  {
+    "title": "ما هو اسم المتغير الذي يتم استخدامه لتخزين عنوان في الذاكرة؟",
+    "answer_1": "int",
+    "answer_2": "boolean",
+    "answer_3": "string",
+    "answer_4": "pointer",
+    "right_answer": "pointer"
+  }
+]

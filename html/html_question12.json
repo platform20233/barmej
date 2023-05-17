@@ -1,0 +1,82 @@
+[
+  {
+    "title": "ما هو المتغير في البرمجة؟",
+    "answer_1": "قيمة ثابتة لا يمكن تغييرها",
+    "answer_2": "موقع ذاكرة يحتوي على قيمة",
+    "answer_3": "عملية حسابية",
+    "answer_4": "دالة برمجية",
+    "right_answer": "موقع ذاكرة يحتوي على قيمة"
+  },
+  {
+    "title": "ما هي الخاصية الرئيسية للمتغير في البرمجة؟",
+    "answer_1": "الثبات",
+    "answer_2": "القدرة على التغيير",
+    "answer_3": "التنبؤ",
+    "answer_4": "السرية",
+    "right_answer": "القدرة على التغيير"
+  },
+  {
+    "title": "ما هو نوع المتغير الذي يمكنه تخزين الأرقام الصحيحة؟",
+    "answer_1": "String",
+    "answer_2": "Boolean",
+    "answer_3": "Integer",
+    "answer_4": "Float",
+    "right_answer": "Integer"
+  },
+  {
+    "title": "ما هو نوع المتغير الذي يمكنه تخزين الأرقام العشرية؟",
+    "answer_1": "String",
+    "answer_2": "Boolean",
+    "answer_3": "Integer",
+    "answer_4": "Float",
+    "right_answer": "Float"
+  },
+  {
+    "title": "ما هو نوع المتغير الذي يمكنه تخزين القيم الثنائية (صحيح أو خطأ)؟",
+    "answer_1": "String",
+    "answer_2": "Boolean",
+    "answer_3": "Integer",
+    "answer_4": "Float",
+    "right_answer": "Boolean"
+  },
+  {
+    "title": "ما هو نوع المتغير الذي يمكنه تخزين النصوص والكلمات؟",
+    "answer_1": "String",
+    "answer_2": "Boolean",
+    "answer_3": "Integer",
+    "answer_4": "Float",
+    "right_answer": "String"
+  },
+  {
+    "title": "ما هي العملية التي يمكن استخدامها لتغيير قيمة المتغير؟",
+    "answer_1": "Assignment",
+    "answer_2": "Comparison",
+    "answer_3": "Concatenation",
+    "answer_4": "Iteration",
+    "right_answer": "Assignment"
+  },
+  {
+    "title": "ما هو الاسم الذي يتم استخدامه لتحديد المتغير في البرمجة؟",
+    "answer_1": "Identifier",
+    "answer_2": "Operator",
+    "answer_3": "Keyword",
+    "answer_4": "Function",
+    "right_answer": "Identifier"
+  },
+  {
+    "title": "ما هو النوع المناسب لتخزين قيمة درجة الحرارة؟",
+    "answer_1": "String",
+    "answer_2": "Boolean",
+    "answer_3": "Integer",
+    "answer_4": "Float",
+    "right_answer": "Float"
+  },
+  {
+    "title": "ما هو النوع المناسب لتخزين حالة التسجيل (مفتوح/مغلق)؟",
+    "answer_1": "String",
+    "answer_2": "Boolean",
+    "answer_3": "Integer",
+    "answer_4": "Float",
+    "right_answer": "Boolean"
+  }
+]

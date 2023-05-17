@@ -1,0 +1,82 @@
+[
+  {
+    "title": "ما هي جملة التحكم التي تستخدم لاتخاذ قرار بناءً على شرط محدد؟",
+    "answer_1": "جملة الحلقة",
+    "answer_2": "جملة التكرار",
+    "answer_3": "جملة الفرز",
+    "answer_4": "جملة الشرط",
+    "right_answer": "جملة الشرط"
+  },
+  {
+    "title": "ما هو نوع جملة التحكم التي تنفذ كودًا معينًا إذا كانت الشرط صحيحة؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "if-else"
+  },
+  {
+    "title": "ما هو نوع جملة التحكم التي تقوم بتنفيذ كودًا معينًا عدة مرات بناءً على شرط محدد؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "while"
+  },
+  {
+    "title": "ما هو نوع جملة التحكم التي تستخدم لتكرار تنفيذ كودًا معينًا بشكل محدد؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "for"
+  },
+  {
+    "title": "ما هي جملة التحكم التي تستخدم لاختبار عدة شروط متعددة وتنفيذ الكود المطابق للشرط المطابق؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "switch"
+  },
+  {
+    "title": "ما هي جملة التحكم التي تستخدم لتنفيذ كود إذا كانت الشروط المحددة صحيحة أو تنفيذ كود آخر إذا كانت الشروط غير صحيحة؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "if-else"
+  },
+  {
+    "title": "ما هي جملة التحكم التي تستخدم لتنفيذ كود محدد بشكل متكرر حتى تصبح الشروط غير صحيحة؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "while"
+  },
+  {
+    "title": "ما هو نوع جملة التحكم التي تقوم بتحويل تنفيذ الكود بناءً على قيمة معينة؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "switch"
+  },
+  {
+    "title": "ما هي جملة التحكم التي تستخدم لتنفيذ كود محدد بشكل متكرر عدد محدد من المرات؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "for"
+  },
+  {
+    "title": "ما هي جملة التحكم التي تستخدم لتنفيذ كود محدد بشكل متتابع حسب ترتيب محدد؟",
+    "answer_1": "if-else",
+    "answer_2": "while",
+    "answer_3": "for",
+    "answer_4": "switch",
+    "right_answer": "for"
+  }
+]

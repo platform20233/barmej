@@ -1,0 +1,58 @@
+[
+  {
+    "title": "ما هي بيئة التطوير المتكاملة المستخدمة لتطوير تطبيقات Android؟",
+    "answer_1": "Eclipse",
+    "answer_2": "Visual Studio Code",
+    "answer_3": "Xcode",
+    "answer_4": "Android Studio",
+    "right_answer": "Android Studio"
+  },
+  {
+    "title": "ما هي بيئة التطوير المتكاملة المستخدمة لتطوير تطبيقات iOS؟",
+    "answer_1": "Eclipse",
+    "answer_2": "Visual Studio Code",
+    "answer_3": "Xcode",
+    "answer_4": "Android Studio",
+    "right_answer": "Xcode"
+  },
+  {
+    "title": "ما هي بيئة التطوير المتكاملة المستخدمة لتطوير تطبيقات ويب باستخدام لغة PHP؟",
+    "answer_1": "Eclipse",
+    "answer_2": "Visual Studio Code",
+    "answer_3": "Xcode",
+    "answer_4": "PHPStorm",
+    "right_answer": "PHPStorm"
+  },
+  {
+    "title": "ما هي بيئة التطوير المتكاملة المستخدمة لتطوير تطبيقات ويب باستخدام لغة JavaScript؟",
+    "answer_1": "Eclipse",
+    "answer_2": "Visual Studio Code",
+    "answer_3": "Xcode",
+    "answer_4": "WebStorm",
+    "right_answer": "Visual Studio Code"
+  },
+  {
+    "title": "ما هي بيئة التطوير المتكاملة المستخدمة لتطوير تطبيقات الشبكات العصبية والذكاء الاصطناعي؟",
+    "answer_1": "Eclipse",
+    "answer_2": "Visual Studio Code",
+    "answer_3": "Xcode",
+    "answer_4": "PyCharm",
+    "right_answer": "PyCharm"
+  },
+  {
+    "title": "ما هي بيئة التطوير المتكاملة المستخدمة لتطوير تطبيقات الألعاب؟",
+    "answer_1": "Eclipse",
+    "answer_2": "Visual Studio Code",
+    "answer_3": "Unity",
+    "answer_4": "Android Studio",
+    "right_answer": "Unity"
+  },
+  {
+    "title": "ما هي بيئة التطوير المتكاملة المستخدمة لتطوير تطبيقات الواقع الافتراضي (VR)؟",
+    "answer_1": "Eclipse",
+    "answer_2": "Visual Studio Code",
+    "answer_3": "Unity",
+    "answer_4": "Android Studio",
+    "right_answer": "Unity"
+  }
+]
